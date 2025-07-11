@@ -22,8 +22,8 @@ Then run:
 python gene_classifier.py expression_data.csv
 
 If it does not work, please double check the location of your downloaded files using: 
-cd ~/Downloads/gene_expression_classifier
-gene_expression_classifier % ls
+- cd ~/Downloads/gene_expression_classifier
+- gene_expression_classifier % ls
 
 ---
 
