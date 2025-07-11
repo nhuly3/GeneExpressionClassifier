@@ -13,17 +13,6 @@ The goal of this project was to apply machine learning techniques to synthetic b
 
 ---
 
-## Features
-
-- Standardizes gene expression data
-- Encodes categorical labels
-- Trains a Random Forest Classifier
-- Outputs:
-  + Confusion matrix
-  + Classification report (precision, recall, F1-score)
-
----
-
 ## How to Run
 
 Install dependencies:
