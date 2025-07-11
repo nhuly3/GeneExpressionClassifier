@@ -39,7 +39,7 @@ gene_expression_classifier % ls
 ---
 
 ## Example Output
-
+```
 Confusion Matrix:
 [[10  0]
  [ 1  9]]
@@ -51,5 +51,5 @@ Classification Report:
          FLT       1.00      0.90      0.95        10
 
     accuracy                           0.95        20
-
+```
 ---
